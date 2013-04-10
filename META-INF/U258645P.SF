@@ -1,0 +1,230 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: oeJMYlwRALQ9prMiB18i7WGYY8U=
+Created-By: 1.6.0_37 (Apple Inc.)
+SHA1-Digest-Manifest: /OsRCh+acAaQAnv0JrGR1g9EXEs=
+
+Name: res/drawable/splash_screen.png
+SHA1-Digest: jMTNC1iwAL8QbT2pZqwaieJZUJs=
+
+Name: long-multipart.msg
+SHA1-Digest: 6DFSzCthGJWdTRkACiviXizjBtE=
+
+Name: res/drawable/map_pin_red.png
+SHA1-Digest: qfYlFO/NRVblesdIfdnYHFmF5cY=
+
+Name: res/drawable/menu_item_bg.xml
+SHA1-Digest: GOnVy8GFWyxlMRFx3Djln1TNUfs=
+
+Name: res/drawable/romanblack_media_play.png
+SHA1-Digest: 3cJEpqQtTplKViCgx3L3+H72mTg=
+
+Name: res/raw/configuration.xml
+SHA1-Digest: QyMJM94tkp/uM+qYqHijEmSsuJQ=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: Od1+1lQowaDOwZlcvMPFrooX80E=
+
+Name: res/layout/romanblack_media_videoplayer.xml
+SHA1-Digest: 56z2xu0DvKmsSrGV7/SpF7TBsbQ=
+
+Name: res/layout/romanblack_media_item_audio.xml
+SHA1-Digest: E1VXmprFmYEr7ubpUWWJCmfAAaM=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: zxhu9kFye+PDmRtUEQk9PCP2+T4=
+
+Name: res/drawable/romanblack_bg_twitter_top.png
+SHA1-Digest: T+Bd1pb9IAf0XafxSR+aFxcqrjc=
+
+Name: res/drawable-ldpi/romanblack_twitter_ic_pulltorefresh_arrow.png
+SHA1-Digest: GR+sELYMrRWuH0NK5Uza3Pw9yLo=
+
+Name: res/layout/romanblack_media_main.xml
+SHA1-Digest: I7ahIPL8gF1ey6nskLADE4CRftY=
+
+Name: res/drawable/romanblack_media_icon_seek_bar.png
+SHA1-Digest: aL83zHYlkL/ZhELvq9F9BUUqN5A=
+
+Name: res/layout/romanblack_twitter_pull_to_refresh_header.xml
+SHA1-Digest: I10hOfECvCPQkFJ13PE8D6sf/ks=
+
+Name: lib/armeabi/libaacdecoder.so
+SHA1-Digest: QU77MxSxbEDILYxQh09s9mbxTss=
+
+Name: res/layout/romanblack_twitter_details.xml
+SHA1-Digest: MJabygSOIue2kNjfI8bhp7S6g4U=
+
+Name: res/drawable/romanblack_bg_twitter_body.png
+SHA1-Digest: DsPWIAXqa8K3MFPm11wkcw92dHM=
+
+Name: res/drawable/romanblack_twitter_icon.png
+SHA1-Digest: XpFjn38G0AkBA+mQxVD0nzJNDuA=
+
+Name: res/drawable/romanblack_html_menu_forward.png
+SHA1-Digest: njYVsTa15foKskW+uleWFzBVglA=
+
+Name: res/drawable/romanblack_media_bg_feed.png
+SHA1-Digest: ZFgq/GTx/K557NFQXDydSDDrifs=
+
+Name: res/layout/gps_map_main.xml
+SHA1-Digest: KjqP+djIDgxjCd7OSPnK+7tK7Ic=
+
+Name: res/drawable/menu_item_normal.png
+SHA1-Digest: whha5bHecbViPD8S/9uXEzUrF3U=
+
+Name: res/layout/splash_screen.xml
+SHA1-Digest: qwc/Q6WXWTxF0YmZUjVzVBL98v4=
+
+Name: res/drawable/romanblack_twitter_reply.png
+SHA1-Digest: mLigLF//IRTXzEJZuEXClPNjSiI=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: aIa++cg7FoT18AAJGQmrZXQi7uA=
+
+Name: res/drawable-hdpi/romanblack_twitter_ic_pulltorefresh_arrow.png
+SHA1-Digest: DduTnl2IA+8nIj0Hy9lNzQp2GAw=
+
+Name: res/layout/romanblack_twitter_input_dialog.xml
+SHA1-Digest: TbAZjcvmJ7QZKLWWjCrzD74g2bY=
+
+Name: res/drawable/romanblack_media_icon_pause.png
+SHA1-Digest: evZ7qdCj/yfBuEWWKJjciURj9PY=
+
+Name: res/layout/main.xml
+SHA1-Digest: lK5pWxWI5VC9GtCT7ix6I4m5K7E=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: 2aGTR0okLqttG2mv4rbtwWozn2w=
+
+Name: res/drawable/icon_notification.png
+SHA1-Digest: AdkLG4LrvGUjOtPjdVZ4EWIemNE=
+
+Name: res/drawable/romanblack_bg_twitter_bottom.png
+SHA1-Digest: oCIzBvd399ReG9wLp2muxqYg9iM=
+
+Name: res/layout/push_notification_screen.xml
+SHA1-Digest: 67gAT8mhF8b9ECVymTpdrD6Tof8=
+
+Name: res/layout/romanblack_html_main.xml
+SHA1-Digest: /jIWJtMTIXeU92QvQlwBbtUey00=
+
+Name: res/drawable/romanblack_twitter_retwit.png
+SHA1-Digest: s+mXeBpb8u33mS9M6JQezp3zZy0=
+
+Name: res/drawable/icon_notification_mask.png
+SHA1-Digest: xsO0vuplAyQiQjjgu4GOv10APJU=
+
+Name: res/layout/romanblack_twitter_sharing.xml
+SHA1-Digest: bsTYAet03h7Sn2WIRv0PfTqMo0M=
+
+Name: res/drawable/menu_item_pressed.png
+SHA1-Digest: WlUGsriw09ZtmEOjZmfPv1TZuBo=
+
+Name: res/drawable/romanblack_media_icon_play.png
+SHA1-Digest: FGbcNMJIBHb6VjIj/+3CF4plBEQ=
+
+Name: res/drawable/icon_arrow_left.png
+SHA1-Digest: bSo6LfqPqCOZUWapyjyRv8UIoTI=
+
+Name: resources.arsc
+SHA1-Digest: ifU1aKRqXpGCuqDTwXfIcaXtgLg=
+
+Name: res/drawable/romanblack_media_icon_prev.png
+SHA1-Digest: tRtQ+Qhho/sPKnQrISlQXioUipw=
+
+Name: res/drawable/romanblack_media_icon_seek_thumb.png
+SHA1-Digest: 5K/aNdlV7HoSJoW7EcBU8cdgEys=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 3vO/DMzzqkOrAdIfEb7IBSgxuNE=
+
+Name: res/layout/romanblack_twitter_auth_dialog.xml
+SHA1-Digest: e7tT/G9N8YraPB/IUQJW40HA/ys=
+
+Name: res/drawable/romanblack_media_audio_default.png
+SHA1-Digest: 2dHui4iu+fJ+3mF+otSg6JaF6O0=
+
+Name: res/drawable/romanblack_media_arrow.png
+SHA1-Digest: VYt5w9CiHbwOiHFQ+IJsPcV/sCk=
+
+Name: res/layout/gps_text.xml
+SHA1-Digest: IooPdiLgj5EPmwp0L+lFaVQ2RvM=
+
+Name: res/layout/menu_item.xml
+SHA1-Digest: AYEFsyP/gJWHveeguh8Y76TlFuM=
+
+Name: res/drawable/romanblack_media_pause.png
+SHA1-Digest: XesPxDQTQ7yLvljBZnTseokaxKk=
+
+Name: res/drawable/romanblack_html_menu_refresh.png
+SHA1-Digest: jIe28TJwD0V/Gmiy9M0a/g6Z7Sw=
+
+Name: res/layout/romanblack_twitter_main.xml
+SHA1-Digest: xCUyu7/isX4zXCDP98qJLKr74NU=
+
+Name: res/layout/romanblack_twitter_post_element.xml
+SHA1-Digest: xA1hgDzmwAkcMGvOVm4yfQXebFE=
+
+Name: res/drawable/romanblack_twitter_in_reply_to.png
+SHA1-Digest: nIyVeI+RAr+MHfm9m0S8UvYmzvM=
+
+Name: res/drawable/romanblack_html_menu_back.png
+SHA1-Digest: 5VYQOTz3VaMMAKIM8WCXWy3i3fk=
+
+Name: res/drawable-mdpi/romanblack_twitter_ic_pulltorefresh_arrow.png
+SHA1-Digest: hfpIF8VKonrDpSN7dKbC9RRf0f0=
+
+Name: lib/armeabi-v7a/libaacdecoder.so
+SHA1-Digest: rzi9u010wYuOev10AiKdWGmT61Q=
+
+Name: res/drawable/romanblack_twitter_action_bar_bg.png
+SHA1-Digest: 1qJ5stgRgPZDk5O/W0864auRjJI=
+
+Name: res/layout/romanblack_media_item_video.xml
+SHA1-Digest: zbpDYvJo2v5Qpfc4GFuvigAMPK0=
+
+Name: res/drawable/romanblack_media_video_default.png
+SHA1-Digest: 3vLmKQKPScpEPE0ocyd2UBv3djU=
+
+Name: classes.dex
+SHA1-Digest: sCWl/kTLsCQ7zBNInXm5D3QMi9I=
+
+Name: res/drawable/romanblack_twitter_home.png
+SHA1-Digest: xcKq/t6seTN6XfVL/GdGxDgGYn8=
+
+Name: res/drawable/romanblack_twitter_btn_post.png
+SHA1-Digest: ExvcJUru2Qm9YQdv6qUUGkqQGpA=
+
+Name: res/drawable/romanblack_media_icon_next.png
+SHA1-Digest: KYYPtFa+nfEw4UVhbZlPabBhKpI=
+
+Name: res/layout/wait.xml
+SHA1-Digest: gV4uUgSJve5rOkGTWWX+U0dw5xc=
+
+Name: res/layout/romanblack_media_audioplayer.xml
+SHA1-Digest: fIro3bWaD04cXlCSdPrpx2sJ3NA=
+
+Name: res/drawable/icon.png
+SHA1-Digest: lEtG6AgozLhoFqgrqE8tSfaNwiI=
+
+Name: res/layout/romanblack_twitter_auth.xml
+SHA1-Digest: O3wtvNpZAqcbiXWiEgJXMXICGTM=
+
+Name: res/drawable/map_pin_blue.png
+SHA1-Digest: LYA0n5eefoKF0yshqdL2pE36hng=
+
+Name: res/drawable/map_pin_shadow.png
+SHA1-Digest: E4UEI3vRZHyIeqq74EWTo0oYXcE=
+
+Name: res/drawable/splash_screen_ibuildapp.jpg
+SHA1-Digest: awu5B+lcOdsUsDhWQK4KrZDRGTk=
+
+Name: res/drawable/romanblack_media_icon_stop.png
+SHA1-Digest: 3zzJ+uaa1+UVWKPQk0GqY0h0RVQ=
+
+Name: res/drawable/icon_arrow_right.png
+SHA1-Digest: CvJK+kbEOiKTVjoB50In1CpM4sk=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 7pCkSCmE8jw5+s5Ye6ju4Od0NYQ=
+
